@@ -4,7 +4,7 @@
 
 #rachael {
   position: relative;
-  left: 15%;
+  left: 20%;
   width: 150px;
   height: 50px;
   background: #CA85BA;
@@ -25,7 +25,7 @@ h1 {
 .topnav {
   position: relative;
   top: 30px;
-  right: 15%;
+  right: 30%;
   background-color: white;
   color: black;
   overflow: hidden;
@@ -43,7 +43,7 @@ h1 {
 }
 
 #aboutme {
-  padding: 1% 20% 0% 15%;
+  padding: 1% 20% 0% 20%;
   background-image: url("../images/foggy_birds.png");
   height: 850px;
   width: 100%;
